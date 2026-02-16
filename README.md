@@ -1,4 +1,4 @@
-# LISP Backward Chaining Core Engine - Car Diagnostic Expert System
+# TRAINING EXERCISE W/ LISP Backward Chaining Core Engine - Car Diagnostic Expert System
 
 A sophisticated **backward chaining expert system** implemented in Common Lisp, featuring **MYCIN-style certainty factors** and **goal-driven reasoning** for automotive troubleshooting.
 
